@@ -1,0 +1,167 @@
+[33mcommit 0aabc446a87388e888418c779485fd96988a064d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 19:39:03 2022 -0700
+
+     14-copy_html
+
+[33mcommit 82b16347eedb6a91882ab39b5c68221f77d9f7d2[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 19:36:45 2022 -0700
+
+     13-symbolic_link
+
+[33mcommit a552f88132f38dfccee9a076c7cf8e304fc56386[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 19:34:30 2022 -0700
+
+     12-file_type
+
+[33mcommit f965b764a8ae0cc5e1988693dd533025db8d3c31[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 19:30:59 2022 -0700
+
+     11-lists
+
+[33mcommit 581c8b4de60a125efd12142428794fc8a9809295[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 19:24:49 2022 -0700
+
+     11-lists
+
+[33mcommit f41f4df883dbf9bb006a1f0a73e5ea7c9812f21a[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 19:18:03 2022 -0700
+
+     11-lists
+
+[33mcommit 1d2280afc63733d90f3659f152bdf9cfcb85c89e[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 19:10:28 2022 -0700
+
+     10-back
+
+[33mcommit 4a735a10bbf4066895217ed26e31c6b8a9d24f65[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 18:55:06 2022 -0700
+
+     10-back
+
+[33mcommit ecf387e96afda15a10fcbb15a1363d767b504326[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 18:49:08 2022 -0700
+
+    10-back
+
+[33mcommit 025ef1d25635fbd551ee4eb8d630106d14e476d0[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 18:42:47 2022 -0700
+
+     9-firstdirdeletion
+
+[33mcommit ff762f82dc964fadb49ced33270719ee761db02f[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 18:38:00 2022 -0700
+
+    8-firstdelete
+
+[33mcommit 3a6dcfdefb6ed48f8ed8f8a2c5948f55f8fd6b5c[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 18:32:46 2022 -0700
+
+    7-movethatfile
+
+[33mcommit 6fcae4a5ee50bb95ccb5dea360117d9b4d87a9db[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 18:29:04 2022 -0700
+
+     6-firstdirectory
+
+[33mcommit ab8c4ecb42eb27374749af94c2d811b528c048b9[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 18:21:47 2022 -0700
+
+     ls
+
+[33mcommit 7b34f71446b8eaae393580fe841410bfde37dde5[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 18:17:30 2022 -0700
+
+    al
+
+[33mcommit 5450cc5dd37394e662bf43c54e9182e5f2c14220[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 18:13:30 2022 -0700
+
+     hidden
+
+[33mcommit 4bda4ccbbc4b68191fa01b55dde02a01ce8ca833[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 18:10:57 2022 -0700
+
+     l
+
+[33mcommit 5853ef269b5ba3f07461cfcdde4eed0a966e03d4[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 18:02:57 2022 -0700
+
+    cd
+
+[33mcommit 25f8b1511d9b4a37b3104cc42c6c0f5f5fccf765[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 18:02:03 2022 -0700
+
+    cd
+
+[33mcommit b64228d269e412cec28a2e180be2f4cbabd0968c[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 17:58:16 2022 -0700
+
+     ls
+
+[33mcommit 75048ac2eeb398e3bb1f0e84f1797ed528e29c8c[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 17:55:11 2022 -0700
+
+     ls
+
+[33mcommit 12386b8b0b203b68017162b121c7d62a54925912[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 17:52:58 2022 -0700
+
+     ls
+
+[33mcommit 252c9b4f6c01e3d19576884ea7c7a137d406b028[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 17:47:30 2022 -0700
+
+    pwd
+
+[33mcommit 167ff7b6fa88fbe99696608b26472e0e9b22846a[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 17:44:46 2022 -0700
+
+    pwd
+
+[33mcommit 2e5f496e45760fa914dc9a5067d8975ef17835e5[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 17:35:40 2022 -0700
+
+     pWd
+
+[33mcommit b6232536e3b10e1922119655c3337d755ad59c4a[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 17:28:47 2022 -0700
+
+     pwd
+
+[33mcommit 2ffba6c23de0be6de6efc5cd66e071016f34a025[m
+Author: The-Cy <kimscyro@gmail.com>
+Date:   Wed Oct 5 17:21:28 2022 -0700
+
+    pwd
+
+[33mcommit c3bf1a4da81388014f2e366ca12f39cf26bb6e16[m
+Author: The-Cy <113690565+The-Cy@users.noreply.github.com>
+Date:   Wed Oct 5 16:18:11 2022 -0700
+
+    Initial commit
