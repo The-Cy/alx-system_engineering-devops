@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{s..z} | tr """\n | grep -v "oo"
+ printf "%o\n" $((5#$(echo $WATER | tr 'water' '01234') + 5#$(echo $STIR | tr 'stir.' '01234'))) | tr '01234567' 'bestchol'
